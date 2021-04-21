@@ -17,10 +17,10 @@ line-height: 1.5em;
 }
 
 .container {
-    max-width: 640px; 
+    max-width: 470px; 
     margin: auto;
     background: rgb(0, 0, 0);
-    padding: 20px;
+    padding: 10px;
     border-radius: 10px;
     
 }
@@ -56,20 +56,20 @@ form button:hover {
 }
 
 .calculadora {
-    width: 400px;
-    margin: 10px;
+    width: 300px;
+   
 }
 
 .display {
-    font-size: 2em;
-    width: 400px;
+    font-size: 1.5em;
+    width: 307px;
     text-align: right;
 }
 
 .btn {
-    width: 100px;
-    height: 50px ;
-    font-size: 1em;
+    width: 76px;
+    height: 38px ;
+    font-size: 0.7em;
     border: none;
     background-color: lightgray;
     cursor: pointer;
