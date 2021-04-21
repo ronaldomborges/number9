@@ -97,4 +97,9 @@ form button:hover {
  h1 {
      color: white;
  }
+ footer {
+     color: white;
+     font-size: 14px;
+     text-align: right;
+ }
 
